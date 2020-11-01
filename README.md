@@ -14,3 +14,9 @@ The projects are tested for mobile phones with a screen of 6.39'' (1080x2340 pix
 A project can be launched by opening the build.gradle file located inside of the project folder.
 
 Run this code and enjoy!
+
+Here are some Screen Shots of the app:
+
+
+
+https://user-images.githubusercontent.com/67738204/97796249-a90d5600-1c35-11eb-9540-b923825d4c60.jpg
